@@ -136,13 +136,13 @@ opacity: 0.3;}
     transform: translate(0px)
 }
 #section .side .con p:nth-child(1) {
-    bottom: 270px; transition-delay: 0.4s;
+    bottom: 270px; transition:all 0.4s;
 }
 #section .side .con p:nth-child(2) {
-    bottom: 160px; transition-delay: 0.8s;
+    bottom: 160px; transition: all 0.8s;
 }
 #section .side .con p:nth-child(3) {
-   transition-delay: 1.2s;
+   transition: all  1.2s;
 }
 #section .side .con p em {
     transform: skew(40deg);
